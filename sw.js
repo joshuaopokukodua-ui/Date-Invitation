@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Date Invitation';
+const CACHE_NAME = 'Date Invitation v2';
 const ASSETS = [
   './',
   './index.html',
